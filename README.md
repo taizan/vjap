@@ -3,8 +3,7 @@ Androidの日本語縦書き用ライブラリ
 
 縦書きフォントのないANdroidで縦書き表示する為にcanvasに位置を調整して直接描画しています。
 
-![Alt Text](https://github.com/taizan/vjap/blob/garage/capture.jpg)
-
+![Alt Text](https://github.com/taizan/vjap/blob/garage/capture.jpg)　　![Alt Text](https://github.com/taizan/vjap/blob/garage/capture3.gif)
 
 ##主な対応機能
 
